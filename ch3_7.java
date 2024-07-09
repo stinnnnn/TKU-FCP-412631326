@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class ch3_7 {
     public static void main(String[] args) {
         float n=5.0f;
@@ -5,3 +6,12 @@ public class ch3_7 {
         System.out.println(n+"*"+n+"="+p);
     }
 }
+=======
+public class ch3_7 {
+    public static void main(String[] args) {
+        float n=5.0f;
+        double p=n*n;
+        System.out.println(n+"*"+n+"="+p);
+    }
+}
+>>>>>>> 7e6d642f065215412f5d178fecfaefad4637a816
