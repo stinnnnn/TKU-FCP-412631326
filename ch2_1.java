@@ -1,9 +1,10 @@
-public class ch2_1 { //定義類別 ch2_1
-    public static void main(String[] args){
-        int num1=2;
-        int num2=3;
-        System.out.println(num1+"cat are running");
-        System.out.println(num2+"dogs are runnung");
+public class ch2_1{
+    public static void main(String[] args) {
+        double num1=6.8;
+        int num2=50;
+        String num3="java";
+        System.out.println("num1="+num1);
+        System.out.println("num2="+num2);
+        System.out.println("num3="+num3);
     }
-    
 }
